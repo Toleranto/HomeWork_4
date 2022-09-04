@@ -1,0 +1,15 @@
+C:\Users\Женек\Desktop\HomeWork_4\Example_029Degree\bin\Debug\net6.0\Example_029Degree.exe
+C:\Users\Женек\Desktop\HomeWork_4\Example_029Degree\bin\Debug\net6.0\Example_029Degree.deps.json
+C:\Users\Женек\Desktop\HomeWork_4\Example_029Degree\bin\Debug\net6.0\Example_029Degree.runtimeconfig.json
+C:\Users\Женек\Desktop\HomeWork_4\Example_029Degree\bin\Debug\net6.0\Example_029Degree.dll
+C:\Users\Женек\Desktop\HomeWork_4\Example_029Degree\bin\Debug\net6.0\Example_029Degree.pdb
+C:\Users\Женек\Desktop\HomeWork_4\Example_029Degree\obj\Debug\net6.0\Example_029Degree.csproj.AssemblyReference.cache
+C:\Users\Женек\Desktop\HomeWork_4\Example_029Degree\obj\Debug\net6.0\Example_029Degree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Женек\Desktop\HomeWork_4\Example_029Degree\obj\Debug\net6.0\Example_029Degree.AssemblyInfoInputs.cache
+C:\Users\Женек\Desktop\HomeWork_4\Example_029Degree\obj\Debug\net6.0\Example_029Degree.AssemblyInfo.cs
+C:\Users\Женек\Desktop\HomeWork_4\Example_029Degree\obj\Debug\net6.0\Example_029Degree.csproj.CoreCompileInputs.cache
+C:\Users\Женек\Desktop\HomeWork_4\Example_029Degree\obj\Debug\net6.0\Example_029Degree.dll
+C:\Users\Женек\Desktop\HomeWork_4\Example_029Degree\obj\Debug\net6.0\refint\Example_029Degree.dll
+C:\Users\Женек\Desktop\HomeWork_4\Example_029Degree\obj\Debug\net6.0\Example_029Degree.pdb
+C:\Users\Женек\Desktop\HomeWork_4\Example_029Degree\obj\Debug\net6.0\Example_029Degree.genruntimeconfig.cache
+C:\Users\Женек\Desktop\HomeWork_4\Example_029Degree\obj\Debug\net6.0\ref\Example_029Degree.dll
