@@ -1,0 +1,15 @@
+C:\Users\Женек\Desktop\HomeWork_4\Example_029Array\obj\Debug\net6.0\Example_029Array.csproj.AssemblyReference.cache
+C:\Users\Женек\Desktop\HomeWork_4\Example_029Array\obj\Debug\net6.0\Example_029Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Женек\Desktop\HomeWork_4\Example_029Array\obj\Debug\net6.0\Example_029Array.AssemblyInfoInputs.cache
+C:\Users\Женек\Desktop\HomeWork_4\Example_029Array\obj\Debug\net6.0\Example_029Array.AssemblyInfo.cs
+C:\Users\Женек\Desktop\HomeWork_4\Example_029Array\obj\Debug\net6.0\Example_029Array.csproj.CoreCompileInputs.cache
+C:\Users\Женек\Desktop\HomeWork_4\Example_029Array\bin\Debug\net6.0\Example_029Array.exe
+C:\Users\Женек\Desktop\HomeWork_4\Example_029Array\bin\Debug\net6.0\Example_029Array.deps.json
+C:\Users\Женек\Desktop\HomeWork_4\Example_029Array\bin\Debug\net6.0\Example_029Array.runtimeconfig.json
+C:\Users\Женек\Desktop\HomeWork_4\Example_029Array\bin\Debug\net6.0\Example_029Array.dll
+C:\Users\Женек\Desktop\HomeWork_4\Example_029Array\bin\Debug\net6.0\Example_029Array.pdb
+C:\Users\Женек\Desktop\HomeWork_4\Example_029Array\obj\Debug\net6.0\Example_029Array.dll
+C:\Users\Женек\Desktop\HomeWork_4\Example_029Array\obj\Debug\net6.0\refint\Example_029Array.dll
+C:\Users\Женек\Desktop\HomeWork_4\Example_029Array\obj\Debug\net6.0\Example_029Array.pdb
+C:\Users\Женек\Desktop\HomeWork_4\Example_029Array\obj\Debug\net6.0\Example_029Array.genruntimeconfig.cache
+C:\Users\Женек\Desktop\HomeWork_4\Example_029Array\obj\Debug\net6.0\ref\Example_029Array.dll
