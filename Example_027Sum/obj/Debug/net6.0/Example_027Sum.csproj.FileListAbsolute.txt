@@ -1,0 +1,5 @@
+C:\Users\Женек\Desktop\HomeWork_4\Example_027Sum\obj\Debug\net6.0\Example_027Sum.csproj.AssemblyReference.cache
+C:\Users\Женек\Desktop\HomeWork_4\Example_027Sum\obj\Debug\net6.0\Example_027Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Женек\Desktop\HomeWork_4\Example_027Sum\obj\Debug\net6.0\Example_027Sum.AssemblyInfoInputs.cache
+C:\Users\Женек\Desktop\HomeWork_4\Example_027Sum\obj\Debug\net6.0\Example_027Sum.AssemblyInfo.cs
+C:\Users\Женек\Desktop\HomeWork_4\Example_027Sum\obj\Debug\net6.0\Example_027Sum.csproj.CoreCompileInputs.cache
