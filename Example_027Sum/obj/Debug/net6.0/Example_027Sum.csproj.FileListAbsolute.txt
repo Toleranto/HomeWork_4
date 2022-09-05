@@ -3,3 +3,13 @@ C:\Users\Женек\Desktop\HomeWork_4\Example_027Sum\obj\Debug\net6.0\Example_0
 C:\Users\Женек\Desktop\HomeWork_4\Example_027Sum\obj\Debug\net6.0\Example_027Sum.AssemblyInfoInputs.cache
 C:\Users\Женек\Desktop\HomeWork_4\Example_027Sum\obj\Debug\net6.0\Example_027Sum.AssemblyInfo.cs
 C:\Users\Женек\Desktop\HomeWork_4\Example_027Sum\obj\Debug\net6.0\Example_027Sum.csproj.CoreCompileInputs.cache
+C:\Users\Женек\Desktop\HomeWork_4\Example_027Sum\bin\Debug\net6.0\Example_027Sum.exe
+C:\Users\Женек\Desktop\HomeWork_4\Example_027Sum\bin\Debug\net6.0\Example_027Sum.deps.json
+C:\Users\Женек\Desktop\HomeWork_4\Example_027Sum\bin\Debug\net6.0\Example_027Sum.runtimeconfig.json
+C:\Users\Женек\Desktop\HomeWork_4\Example_027Sum\bin\Debug\net6.0\Example_027Sum.dll
+C:\Users\Женек\Desktop\HomeWork_4\Example_027Sum\bin\Debug\net6.0\Example_027Sum.pdb
+C:\Users\Женек\Desktop\HomeWork_4\Example_027Sum\obj\Debug\net6.0\Example_027Sum.dll
+C:\Users\Женек\Desktop\HomeWork_4\Example_027Sum\obj\Debug\net6.0\refint\Example_027Sum.dll
+C:\Users\Женек\Desktop\HomeWork_4\Example_027Sum\obj\Debug\net6.0\Example_027Sum.pdb
+C:\Users\Женек\Desktop\HomeWork_4\Example_027Sum\obj\Debug\net6.0\Example_027Sum.genruntimeconfig.cache
+C:\Users\Женек\Desktop\HomeWork_4\Example_027Sum\obj\Debug\net6.0\ref\Example_027Sum.dll
